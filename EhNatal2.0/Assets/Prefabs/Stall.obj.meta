@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: a7abc47b928297748998fe2a066bbde6
+timeCreated: 1512517345
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bancada
+    100002: Fachada
+    100004: Fileira3
+    100006: Fileira_1
+    100008: Fileira_2
+    100010: Paredes
+    100012: //RootNode
+    100014: Wall_Outside
+    400000: Bancada
+    400002: Fachada
+    400004: Fileira3
+    400006: Fileira_1
+    400008: Fileira_2
+    400010: Paredes
+    400012: //RootNode
+    400014: Wall_Outside
+    2300000: Bancada
+    2300002: Fachada
+    2300004: Fileira3
+    2300006: Fileira_1
+    2300008: Fileira_2
+    2300010: Paredes
+    2300012: Wall_Outside
+    3300000: Bancada
+    3300002: Fachada
+    3300004: Fileira3
+    3300006: Fileira_1
+    3300008: Fileira_2
+    3300010: Paredes
+    3300012: Wall_Outside
+    4300000: Bancada
+    4300002: Fachada
+    4300004: Fileira3
+    4300006: Fileira_1
+    4300008: Fileira_2
+    4300010: Paredes
+    4300012: Wall_Outside
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BancadaMat
+    second: {fileID: 2100000, guid: 63427e3d33826fa4d81a8a1f5fe9916b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FachadaMat
+    second: {fileID: 2100000, guid: bed20864399d90e40a5ffc560c27dab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fileira3Mat
+    second: {fileID: 2100000, guid: 83fa8baed011a75439568de8356c578b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fileira_1Mat
+    second: {fileID: 2100000, guid: b04ede16815cab1439aa2c565557f7f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fileira_2Mat
+    second: {fileID: 2100000, guid: 1594ae50a5fabdc4693fc3fe0af50f50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ParedesMat
+    second: {fileID: 2100000, guid: 123df498e8e4d31429f490088d0d87b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_OutsideMat
+    second: {fileID: 2100000, guid: 9d20b6b0bd43a3342bb8ab6871c0f2a5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
